@@ -1,12 +1,12 @@
-LuckycoinQT Windows Client v0.8.8
+LuckycoinQT Windows Client v0.9.9
 ===========
 
 Luckycoin - a fork of Litecoin version with random bonus blocks. Like Litecoin it uses scrypt as a proof of work scheme.
 
    - 1 min block target
    - Difficulty retargets every 20 min with accelerated diff adjustment in the beginning
-   - Initially 88 coins per block, halves every 2 years (1,036,800 blocks)
-   - Total around 200 millions coins
+   - Initially 88 coins per block, halves every 2 months (100,000 blocks)
+   - Total around 20 millions coins
    - connection port is 9917, RPC-port 9918
 
    Random Super-blocks:
@@ -20,4 +20,10 @@ Luckycoin - a fork of Litecoin version with random bonus blocks. Like Litecoin i
     - 1% chances 5 times the normal coins
     - 0.01% chance 58 times the normal coins
 
-  
+
+Official Luckycoin Community Forum
+==================================
+
+Please visit the official Luckycoin community forum for more information.
+https://cryptocointalk.com/forum/188-luckycoin-lky/
+
