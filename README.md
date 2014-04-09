@@ -1,4 +1,4 @@
-LuckycoinQT Windows Client v1.0.0
+LuckycoinQT Windows Client v1.0.1
 ===========
 
 Luckycoin - a fork of Litecoin version with random bonus blocks. Like Litecoin it uses scrypt as a proof of work scheme.
